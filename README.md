@@ -1,2 +1,2 @@
 # WebpackStarterKit
-after download executed command "npm run build"
+after download executed command "npm install"
